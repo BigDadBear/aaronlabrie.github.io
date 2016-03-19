@@ -1,0 +1,62 @@
+#main {
+	min-height: 100vh;
+	padding-top: 25px;
+  padding-bottom: 25px;
+	text-align: center;
+  color: white;
+  background: #1D84C1;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+#main h1 {
+  font-weight: 600;
+	font-size: 5em;
+}
+
+hr.star{
+  margin: 25px auto 75px;
+  padding: 0;
+  max-width: 650px;
+  border: 0;
+  border-top: solid 5px;
+  text-align: center;
+  border-color: #fff;
+	line-height: 45px;
+}
+
+hr.star:after {
+  content: "\f005";
+  display: inline-block;
+  position: relative;
+  top: -.8em;
+  padding: 0 .25em;
+  font-family: FontAwesome;
+  font-size: 2em;
+	color: #fff;
+	background-color: #ffc21a;
+}
+
+.info {
+  font-size: 1.25em;
+	line-height: 1.5em;
+}
+
+#email {
+	display: block;
+	clear: both;
+	float: none;
+}
+
+#email a {
+	text-decoration: none;
+	margin-left: 5px;
+}
+
+a,
+a:hover,
+a:focus,
+a:active,
+a.active {
+  outline: 0;
+  color: white;
+}
