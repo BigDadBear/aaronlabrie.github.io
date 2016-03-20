@@ -1,11 +1,14 @@
+body {
+  background: #1D84C1;
+  color: white;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
 #main {
 	min-height: 100vh;
 	padding-top: 25px;
   padding-bottom: 25px;
 	text-align: center;
-  color: white;
-  background: #1D84C1;
-	font-family: 'Josefin Sans', sans-serif;
 }
 
 #main h1 {
