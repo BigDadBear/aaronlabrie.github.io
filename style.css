@@ -2,23 +2,23 @@ body {
   padding: 30px 15px;
   background: #1D84C1;
   color: white;
-	font-family: 'Josefin Sans', sans-serif;
-	text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
 }
 
 #name {
   font-weight: 600;
-	font-size: 5em;
+  font-size: 5em;
 }
 
 .info {
   font-size: 1.25em;
-	line-height: 1.5em;
+  line-height: 1.5em;
   display: block;
 }
 
 a, a:hover, a:focus, a:active {
-	text-decoration: none;
+  text-decoration: none;
   outline: 0;
   color: white;
 }
