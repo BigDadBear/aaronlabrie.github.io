@@ -80,6 +80,10 @@ a:hover, a:focus, a:active {
     list-style: none;
   }
 
+  li {
+    line-height: 1.2;
+  }
+
   section {
     padding-left: 1em;
   }
