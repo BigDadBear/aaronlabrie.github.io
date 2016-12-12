@@ -75,6 +75,12 @@ a:hover, a:focus, a:active {
     color: #1D84C1;
   }
 
+  a:hover,
+  a:focus,
+  a:visited {
+    color: #1D84C1;
+  }
+
   ul {
     padding: 0;
     list-style: none;
