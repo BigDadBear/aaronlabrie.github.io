@@ -35,7 +35,7 @@ a:hover, a:focus, a:active {
     padding: 0 1em;
     width: 8.5in;
     height: 11in;
-    background: #fff;    color: #222;
+    background: #FFFFFF;    color: #222222;
     text-align: left;
   }
 
@@ -64,7 +64,7 @@ a:hover, a:focus, a:active {
   }
 
   p {
-    margin: 0;
+    margin: 5px 0 0 0;
   }
 
   a {
@@ -78,6 +78,7 @@ a:hover, a:focus, a:active {
   }
 
   ul {
+    margin: 1em 0;
     padding: 0;
     list-style: none;
   }
@@ -86,13 +87,12 @@ a:hover, a:focus, a:active {
     line-height: 1.2;
   }
 
-  section {
+  .content {
     padding-left: 1em;
   }
 
   .wrapper {
     display: flex;
-
     justify-content: space-around;
   }
 }
