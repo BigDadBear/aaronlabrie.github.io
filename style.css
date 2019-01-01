@@ -1,9 +1,9 @@
 body {
   padding: 30px 15px;
-  background: #1D84C1;
+  background: #1d84c1;
   color: white;
   text-align: center;
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: "Josefin Sans", sans-serif;
 }
 
 #name {
@@ -12,16 +12,23 @@ body {
 }
 
 .info {
-  display: block;  font-size: 1.25em;
+  display: block;
+  font-size: 1.25em;
   line-height: 1.5em;
 }
 
-a, a:hover, a:focus, a:active {
+a,
+a:hover,
+a:focus,
+a:active {
   outline: 0;
-  color: white;  text-decoration: none;
+  color: white;
+  text-decoration: none;
 }
 
-a:hover, a:focus, a:active {
+a:hover,
+a:focus,
+a:active {
   border-bottom: solid 1px white;
 }
 
@@ -34,7 +41,8 @@ a:hover, a:focus, a:active {
     padding: 0 1em;
     width: 8.5in;
     height: 11in;
-    background: #FFFFFF;    color: #222222;
+    background: #ffffff;
+    color: #222222;
     text-align: left;
   }
 
@@ -51,7 +59,8 @@ a:hover, a:focus, a:active {
   }
 
   #technology h3 {
-    margin-top: 1em;    margin-bottom: 0;
+    margin-top: 1em;
+    margin-bottom: 0;
   }
 
   #contact h1 {
@@ -63,17 +72,22 @@ a:hover, a:focus, a:active {
   }
 
   p {
-    margin: 5px 0 0 0;
+    margin: 1rem 0;
+    font-style: italic;
+  }
+
+  #contact p {
+    font-style: normal;
   }
 
   a {
-    color: #1D84C1;
+    color: #1d84c1;
   }
 
   a:hover,
   a:focus,
   a:visited {
-    color: #1D84C1;
+    color: #1d84c1;
   }
 
   ul {
