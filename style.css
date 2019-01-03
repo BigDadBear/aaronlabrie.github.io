@@ -1,20 +1,31 @@
+html {
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
 body {
   padding: 30px 15px;
   background: #1d84c1;
   color: white;
   text-align: center;
-  font-family: "Josefin Sans", sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 #name {
   font-weight: 600;
-  font-size: 5em;
+  font-size: 5rem;
 }
 
 .info {
   display: block;
-  font-size: 1.25em;
-  line-height: 1.5em;
+  font-size: 1.25rem;
+  line-height: 1.5rem;
 }
 
 a,
@@ -37,8 +48,9 @@ a:active {
 }
 
 @media print {
+
   body {
-    padding: 0 1em;
+    padding: 0 1rem;
     width: 8.5in;
     height: 11in;
     background: #ffffff;
@@ -46,12 +58,19 @@ a:active {
     text-align: left;
   }
 
+  section {
+    margin-bottom: 0.5rem;
+  }
+
   #site {
     display: none;
   }
 
   #resume {
-    display: block;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
   }
 
   #contact {
@@ -59,7 +78,7 @@ a:active {
   }
 
   #technology h3 {
-    margin-top: 1em;
+    margin-top: 1rem;
     margin-bottom: 0;
   }
 
@@ -91,9 +110,14 @@ a:active {
   }
 
   ul {
-    margin: 1em 0;
+    margin: 1rem 0;
     padding: 0;
     list-style: none;
+  }
+
+  #employment ul {
+    padding-left: 0.5rem;
+    margin-top: -0.5rem;
   }
 
   li {
@@ -101,7 +125,7 @@ a:active {
   }
 
   .content {
-    padding-left: 1em;
+    padding-left: 1rem;
   }
 
   .wrapper {
