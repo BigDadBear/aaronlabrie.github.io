@@ -4,9 +4,9 @@ https://keybase.io/aaronlabrie
 
 I hereby claim:
 
-  * I am an admin of http://aaronlabrie.com
+  * I am an admin of https://aaronlabrie.com
   * I am aaronlabrie (https://keybase.io/aaronlabrie) on keybase.
-  * I have a public key ASCuh_g1Z-MU_HGpZL2PjGZP4kGLLMLQZ2Gq46hgUG-KjQo
+  * I have a public key ASA6LiSBDH7oja9gh9YiJ2J-VtVLSKFQ5UGaLeWBzMCL9Ao
 
 To do so, I am signing this object:
 
@@ -15,91 +15,38 @@ To do so, I am signing this object:
     "key": {
       "eldest_kid": "0120ae87f83567e314fc71a964bd8f8c664fe2418b2cc2d06761aae3a860506f8a8d0a",
       "host": "keybase.io",
-      "kid": "0120ae87f83567e314fc71a964bd8f8c664fe2418b2cc2d06761aae3a860506f8a8d0a",
+      "kid": "01203a2e24810c7ee88daf6087d62227627e56d54b48a150e5419a2de581ccc08bf40a",
       "uid": "b2eead9df82261e85ce8abb49c133919",
       "username": "aaronlabrie"
     },
     "merkle_root": {
-      "ctime": 1517598702,
-      "hash": "7e9e5605bfc1ad0d74d855ea02ce7ea91a4eee3bd0ddc8b2c6563b64170986647011894544499e8478a6e306d5f5db0214024dfcadefd0bcd57a536bb0204648",
-      "hash_meta": "b6bffefd50f4573a738db7e5aa9e45775714053498a5aa2a40ff1931d4c0c30b",
-      "seqno": 2023091
+      "ctime": 1550030833,
+      "hash": "11a2fd88036a9de53fa87c0ec689ad06dc1e77ab2672601eee9005d94911408ed4b20820c90bfe7ace81b45f7f93b4c0015dfd03f2cade5009379a9f8a161465",
+      "hash_meta": "89912f0a185770a0d65cbeee9378bf09f136d6677bda59217dccb69294a89e4f",
+      "seqno": 4754398
     },
     "service": {
+      "entropy": "DNRD9Ubug3Ss5OKcsL/am/Te",
       "hostname": "aaronlabrie.com",
-      "protocol": "http:"
+      "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "1.0.40"
+    "version": "3.0.0"
   },
-  "ctime": 1517598741,==================================================================
-https://keybase.io/aaronlabrie
---------------------------------------------------------------------
-
-I hereby claim:
-
-  * I am an admin of http://aaronlabrie.com
-  * I am aaronlabrie (https://keybase.io/aaronlabrie) on keybase.
-  * I have a public key ASCuh_g1Z-MU_HGpZL2PjGZP4kGLLMLQZ2Gq46hgUG-KjQo
-
-To do so, I am signing this object:
-
-{
-  "body": {
-    "key": {
-      "eldest_kid": "0120ae87f83567e314fc71a964bd8f8c664fe2418b2cc2d06761aae3a860506f8a8d0a",
-      "host": "keybase.io",
-      "kid": "0120ae87f83567e314fc71a964bd8f8c664fe2418b2cc2d06761aae3a860506f8a8d0a",
-      "uid": "b2eead9df82261e85ce8abb49c133919",
-      "username": "aaronlabrie"
-    },
-    "merkle_root": {
-      "ctime": 1517598702,
-      "hash": "7e9e5605bfc1ad0d74d855ea02ce7ea91a4eee3bd0ddc8b2c6563b64170986647011894544499e8478a6e306d5f5db0214024dfcadefd0bcd57a536bb0204648",
-      "hash_meta": "b6bffefd50f4573a738db7e5aa9e45775714053498a5aa2a40ff1931d4c0c30b",
-      "seqno": 2023091
-    },
-    "service": {
-      "hostname": "aaronlabrie.com",
-      "protocol": "http:"
-    },
-    "type": "web_service_binding",
-    "version": 1
-  },
-  "client": {
-    "name": "keybase.io go client",
-    "version": "1.0.40"
-  },
-  "ctime": 1517598741,
+  "ctime": 1550030848,
   "expire_in": 504576000,
-  "prev": "dda0ca48c3493f30ea0df97431159d7950300135072ef3133dff60d461ef533f",
-  "seqno": 4,
+  "prev": "64fa15f104629f997b36a5afb219e1a7a6414946a1c09a112f6a9042fdd628e8",
+  "seqno": 28,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgrof4NWfjFPxxqWS9j4xmT+JBiyzC0GdhquOoYFBvio0Kp3BheWxvYWTFA0l7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYWU4N2Y4MzU2N2UzMTRmYzcxYTk2NGJkOGY4YzY2NGZlMjQxOGIyY2MyZDA2NzYxYWFlM2E4NjA1MDZmOGE4ZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYWU4N2Y4MzU2N2UzMTRmYzcxYTk2NGJkOGY4YzY2NGZlMjQxOGIyY2MyZDA2NzYxYWFlM2E4NjA1MDZmOGE4ZDBhIiwidWlkIjoiYjJlZWFkOWRmODIyNjFlODVjZThhYmI0OWMxMzM5MTkiLCJ1c2VybmFtZSI6ImFhcm9ubGFicmllIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTE3NTk4NzAyLCJoYXNoIjoiN2U5ZTU2MDViZmMxYWQwZDc0ZDg1NWVhMDJjZTdlYTkxYTRlZWUzYmQwZGRjOGIyYzY1NjNiNjQxNzA5ODY2NDcwMTE4OTQ1NDQ0OTllODQ3OGE2ZTMwNmQ1ZjVkYjAyMTQwMjRkZmNhZGVmZDBiY2Q1N2E1MzZiYjAyMDQ2NDgiLCJoYXNoX21ldGEiOiJiNmJmZmVmZDUwZjQ1NzNhNzM4ZGI3ZTVhYTllNDU3NzU3MTQwNTM0OThhNWFhMmE0MGZmMTkzMWQ0YzBjMzBiIiwic2Vxbm8iOjIwMjMwOTF9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiYWFyb25sYWJyaWUuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC40MCJ9LCJjdGltZSI6MTUxNzU5ODc0MSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJkZGEwY2E0OGMzNDkzZjMwZWEwZGY5NzQzMTE1OWQ3OTUwMzAwMTM1MDcyZWYzMTMzZGZmNjBkNDYxZWY1MzNmIiwic2Vxbm8iOjQsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAhstYsufzKET5Q/qoGz6s/1oDckyjSwImzkMlVIwXxKBOiNc+IoZQ8elCMq4FacF6YtxGXiQHUwtlabMkp3OHBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBV69OvcL0VP0o4B0aqTjmJFN6FgzNuRaK5CA2RI5pxLo3RhZ80CAqd2ZXJzaW9uAQ==
-
-And finally, I am proving ownership of this host by posting or
-appending to this document.
-
-View my publicly-auditable identity here: https://keybase.io/aaronlabrie
-
-==================================================================
-  "expire_in": 504576000,
-  "prev": "dda0ca48c3493f30ea0df97431159d7950300135072ef3133dff60d461ef533f",
-  "seqno": 4,
-  "tag": "signature"
-}
-
-which yields the signature:
-
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgrof4NWfjFPxxqWS9j4xmT+JBiyzC0GdhquOoYFBvio0Kp3BheWxvYWTFA0l7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYWU4N2Y4MzU2N2UzMTRmYzcxYTk2NGJkOGY4YzY2NGZlMjQxOGIyY2MyZDA2NzYxYWFlM2E4NjA1MDZmOGE4ZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYWU4N2Y4MzU2N2UzMTRmYzcxYTk2NGJkOGY4YzY2NGZlMjQxOGIyY2MyZDA2NzYxYWFlM2E4NjA1MDZmOGE4ZDBhIiwidWlkIjoiYjJlZWFkOWRmODIyNjFlODVjZThhYmI0OWMxMzM5MTkiLCJ1c2VybmFtZSI6ImFhcm9ubGFicmllIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTE3NTk4NzAyLCJoYXNoIjoiN2U5ZTU2MDViZmMxYWQwZDc0ZDg1NWVhMDJjZTdlYTkxYTRlZWUzYmQwZGRjOGIyYzY1NjNiNjQxNzA5ODY2NDcwMTE4OTQ1NDQ0OTllODQ3OGE2ZTMwNmQ1ZjVkYjAyMTQwMjRkZmNhZGVmZDBiY2Q1N2E1MzZiYjAyMDQ2NDgiLCJoYXNoX21ldGEiOiJiNmJmZmVmZDUwZjQ1NzNhNzM4ZGI3ZTVhYTllNDU3NzU3MTQwNTM0OThhNWFhMmE0MGZmMTkzMWQ0YzBjMzBiIiwic2Vxbm8iOjIwMjMwOTF9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiYWFyb25sYWJyaWUuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC40MCJ9LCJjdGltZSI6MTUxNzU5ODc0MSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJkZGEwY2E0OGMzNDkzZjMwZWEwZGY5NzQzMTE1OWQ3OTUwMzAwMTM1MDcyZWYzMTMzZGZmNjBkNDYxZWY1MzNmIiwic2Vxbm8iOjQsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAhstYsufzKET5Q/qoGz6s/1oDckyjSwImzkMlVIwXxKBOiNc+IoZQ8elCMq4FacF6YtxGXiQHUwtlabMkp3OHBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBV69OvcL0VP0o4B0aqTjmJFN6FgzNuRaK5CA2RI5pxLo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOi4kgQx+6I2vYIfWIidiflbVS0ihUOVBmi3lgczAi/QKp3BheWxvYWTESpcCHMQgZPoV8QRin5l7NqWvshnhp6ZBSUahwJoRL2qQQv3WKOjEIOWgTkQOMZTQ7uv/kzIyMtzXwx+be30s8x4cYpyiRN6SAgHCo3NpZ8RAuuCshbEnTuLfcdJi14H1FxXlLKiCYBU1MHGSz314heI2c4nLLLwrzpl/OwiZ0Uc3T0h7kzi6M2+6mY11KltGDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM6rW5bAhkcHHXdaX0+W066CwFrImcqapkvNtq8P5FMto3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
