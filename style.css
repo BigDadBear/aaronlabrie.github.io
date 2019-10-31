@@ -10,11 +10,11 @@ html {
 }
 
 body {
-  padding: 30px 15px;
+  padding: 2rem 1rem;
   background: #f74647;
   color: white;
   text-align: center;
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: "Josefin Sans", sans-serif;
 }
 
 #name {
@@ -48,7 +48,6 @@ a:active {
 }
 
 @media print {
-
   body {
     padding: 0 1rem;
     width: 8.5in;
