@@ -1,0 +1,33 @@
+html {
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  padding: 2rem 1rem;
+  font-family: "Sawarabi Gothic", sans-serif;
+  background: #f8f3e8;
+  text-align: center;
+  max-width: 40rem;
+  margin: 0 auto;
+}
+
+h1 {
+  font-weight: normal;
+  color: #e9322a;
+  margin-top: 0;
+}
+
+p {
+  text-align: left;
+}
+
+header p {
+  text-align: center;
+}
