@@ -11,8 +11,8 @@ html {
 
 body {
   padding: 2rem 1rem;
-  background: #f74647;
-  color: white;
+  background: #9dcece;
+  color: #22282f;
   text-align: center;
   font-family: 'Josefin Sans', sans-serif;
 }
@@ -33,14 +33,14 @@ a:hover,
 a:focus,
 a:active {
   outline: 0;
-  color: white;
   text-decoration: none;
+  color: #22282f;
 }
 
 a:hover,
 a:focus,
 a:active {
-  border-bottom: solid 1px white;
+  border-bottom: solid 1px #22282f;
 }
 
 #resume {
