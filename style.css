@@ -35,11 +35,6 @@ a:active {
   outline: 0;
   text-decoration: none;
   color: #22282f;
-}
-
-a:hover,
-a:focus,
-a:active {
   border-bottom: solid 1px #22282f;
 }
 
@@ -114,7 +109,7 @@ a:active {
     list-style: none;
   }
 
-  #employment ul {
+  #employment ul, #non-profit ul {
     padding-left: 0.5rem;
     margin-top: -0.5rem;
   }
