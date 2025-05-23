@@ -71,9 +71,8 @@ a:active {
     text-align: center;
   }
 
-  #technology h3 {
-    margin-top: 1rem;
-    margin-bottom: 0;
+  #technology ul, #notables ul {
+    padding-left: 1rem;
   }
 
   #contact h1 {
@@ -93,6 +92,11 @@ a:active {
     font-style: normal;
   }
 
+  #summary p {
+    font-style: normal;
+    text-align: justify;
+  }
+
   a {
     color: #1d84c1;
   }
@@ -109,6 +113,14 @@ a:active {
     list-style: none;
   }
 
+  #employment, #non-profit {
+    padding-left: 1rem;
+  }
+
+  #employment h3, #non-profit h3 {
+    margin-left: -1rem;
+  }
+
   #employment ul, #non-profit ul {
     padding-left: 0.5rem;
     margin-top: -0.5rem;
@@ -118,12 +130,11 @@ a:active {
     line-height: 1.2;
   }
 
-  .content {
-    padding-left: 1rem;
+  #notables li {
+    margin-bottom: 0.25rem
   }
 
-  .wrapper {
-    display: flex;
-    justify-content: space-around;
+  .content {
+    padding-left: 1rem;
   }
 }
